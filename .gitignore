@@ -5,4 +5,3 @@ tmp/**
 node_modules/
 .sass-cache
 
-.htaccess
